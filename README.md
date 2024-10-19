@@ -1,6 +1,7 @@
 # ShareWise Ease
 
-[![ShareWise Ease on the App Store](https://link-to-your-app-icon.com)](https://apps.apple.com/us/app/sharewise-ease/id6737147734)
+[![ShareWise Ease on the App Store](https://github.com/MoinJanjua/ShareWise-Ease/blob/main/ShareWise%201242%20x%202688/2.png
+)](https://apps.apple.com/us/app/sharewise-ease/id6737147734)
 
 ShareWise Ease is a comprehensive sales management platform tailored for business owners and managers who need a streamlined, efficient way to track and evaluate the performance of their sales teams. This user-friendly app provides essential tools to help you manage sales representatives, set commission structures, track performance metrics, and generate detailed reports—all in one place.
 
